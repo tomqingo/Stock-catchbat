@@ -13,5 +13,16 @@
 
 可视化输出： tkinter
 
+## 具体函数定义
+CatchInfo——爬虫模块
+
+checkNewInsert——查看哪些是新插入的，在之前保存excel中
+
+showNewsInfo——弹框显示最新新闻
+
+catchMain——爬虫主程序
+
+## 结果
+
 
 
