@@ -23,6 +23,6 @@ showNewsInfo——弹框显示最新新闻
 catchMain——爬虫主程序
 
 ## 结果
-
+![Result]
 
 
